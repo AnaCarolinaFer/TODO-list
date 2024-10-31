@@ -4,7 +4,7 @@ Um aplicativo simples e intuitivo, extremamente visual e de rápida manutenção
 
 ### Funcionalidades
 * Gerenciamento de Listas de Tarefas: Crie e gerencie várias listas de tarefas com nomes e emojis personalizados.
-* #Gerenciamento de Tarefas: Adicione tarefas com nome, prioridade (baixa, média, alta), data de vencimento e descrição, e mantenha-as organizadas por data de prazo.
+* Gerenciamento de Tarefas: Adicione tarefas com nome, prioridade (baixa, média, alta), data de vencimento e descrição, e mantenha-as organizadas por data de prazo.
 * Edição e exclusão de Tarefas e Listas.
 * Marcação de Conclusão: Marque tarefas como concluídas para acompanhar seu progresso.
 * Notificações: Receba notificações para tarefas não concluídas cujo prazo é o dia atual.
