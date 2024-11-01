@@ -629,7 +629,7 @@ header {
 .sidebar.close #sidebar-list li:first-child a{
     display: none;
 }
-#toggle-btn{
+#toggle-btn-sidebar{
     display: block;
     padding: 1em;
     border: none;
@@ -640,10 +640,10 @@ header {
         transition: rotate 150ms ease;
     }
 }
-#toggle-btn.rotate {
+#toggle-btn-sidebar.rotate {
     rotate: 180deg; 
 }
-#toggle-btn:hoover{
+#toggle-btn-sidebar:hoover{
     background-color: var(--line-color);
 }
 #sidebar-list li {
@@ -1417,6 +1417,9 @@ main {
             width: auto;
             justify-content: center;
         }
+    }
+    #toggle-btn-sidebar{
+	  display: none;
     }
     main {
         padding: 2em 1em 60px 1em; 
